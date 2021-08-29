@@ -1,2 +1,0 @@
-model_checkpoint_path: "section_network.ckpt"
-all_model_checkpoint_paths: "section_network.ckpt"
