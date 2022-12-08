@@ -9,4 +9,4 @@ that machine learning techniques offer a promising approach to solving it. When 
 (current targets are typically several thousand each day), it becomes impractical to manually input the metadata for each 3D-model. 
 Therefore, classification software can help to generate metadata according to a pre-defined typology, to enable later retrieval of the digital files.
 
-[more...](http://viz.smultron.org/python/using-neural-networks-to-classify-3d-scans/)
+[more...](http://www.kultur-und-stress.de/uncategorized/using-neural-networks-to-classify-3d-scans-of-european-archaeological-pottery/)
